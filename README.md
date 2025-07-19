@@ -23,6 +23,3 @@ Learning how to seduce the DOM while my `useState` ghosts me.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BangBangOperator.BangBangOperator&style=flat-square)
-
