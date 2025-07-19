@@ -10,9 +10,9 @@ React beginner. Keyboard abuser. Button clicker.
 Learning how to seduce the DOM while my `useState` ghosts me.
 
 ### 🔥 Kinks:
-- 🟦 React (my first frontend safe word)
-- ⚡ JavaScript (for code that finishes too fast)
-- 💔 Git (where I keep making the same mistakes and calling it *version control*)
+- React (my first frontend safe word)
+- JavaScript (for code that finishes too fast)
+- Git (where I keep making the same mistakes and calling it *version control*)
 
 ---
 
